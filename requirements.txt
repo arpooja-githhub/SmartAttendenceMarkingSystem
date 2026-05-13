@@ -1,0 +1,6 @@
+opencv-python
+numpy
+scikit-learn
+streamlit
+pandas
+streamlit-autorefresh
