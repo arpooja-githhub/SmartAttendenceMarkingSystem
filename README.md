@@ -87,15 +87,15 @@ SmartAttendanceSystem/
 
 ---
 
-# 📊 Advantages
+# Flow Chat
 
-- Reduces manual effort
-- Prevents proxy attendance
-- Fast and accurate attendance marking
-- Contactless attendance system
-- Easy to use and maintain
+<img width="420" height="924" alt="image" src="https://github.com/user-attachments/assets/b3986ac1-0d72-457f-b4c5-26a01f4523c0" />
+
 
 ---
+# FINAL DASHBOARD OUTPUT
+<img width="3022" height="1560" alt="image" src="https://github.com/user-attachments/assets/7ea09596-9f50-492d-9c15-2568331d3935" />
+
 
 # 🌐 Future Enhancements
 
